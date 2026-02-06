@@ -55,7 +55,7 @@ Eobotics skills not requred. On the job training is expected. | Students need to
             * Evaluating this design would have presented a golden opportunity to learn and implement some important skills.
                 * **CAD skills:** The importance of making a **completely detailed** CAD model
                 * **Machine Design skills:** The importance of providing 2 well-separated coaxial bearings to implement a rotational degree of freedom. 
-            * <span style="background-color: yellow;">Unfortunately, this never happened and we never cashed in on this teaching / learning opportunity.</span>
+            * <span style="background-color: lightgrey;">Unfortunately, this never happened and we never cashed in on this teaching / learning opportunity.</span>
 * A few weeks ago, I demonstrated an omni wheel bot with 3 DOF joystick control.
     * Heather expressed interest in this type of project, possibly for off-season use
     * I mentioned that there are kits available for < $100
@@ -73,5 +73,5 @@ Eobotics skills not requred. On the job training is expected. | Students need to
         * The robot should be fully designed
         * CAD finalized
         * Major components built or in assembly
-    * <span style="background-color: yellow;">Yet our CAD model is still in concept stage. As coaches, we need to recognize this and face up to it.</span>
+    * <span style="background-color: lightgrey;">Yet our CAD model is still in concept stage. As coaches, we need to recognize this and face up to it.</span>
     
